@@ -8,14 +8,15 @@
 ## Todo-List
 
 - Learn Angular
-- Learn NodeJS, Express, MySQL and how to connect them
+- Learn NodeJS, Express, MySQL and how to connect them together
 - Code
   Features:
   1. Web API in order to populate the Database
-  2. Login system and user session
+  2. Login system
   3. Register system
-  4. User profile personalization
+  4. User info
   5. Poking system
   6. Friends List
-  7. Styling, beautifying and adding the animations
+  7. Sessions (future)
+  8. Styling, beautifying and adding the animations
 
