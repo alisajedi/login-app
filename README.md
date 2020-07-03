@@ -1,7 +1,8 @@
+**Note:** The server-side files are included in a seperated repository: [login-server](www.github.com/Sesota/login-server)
 ## TimeSheet
 **Learning Phase:**
-* 12:00 - 14:45 **2:45**
-* 15:30 - 16:10 **0:40**
+* 12:00 - 14:45 ---- **2:45**
+* 15:30 - 16:10 ---- **0:40**
 * 19:00 - 
 
 ## Todo-List
