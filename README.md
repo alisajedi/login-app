@@ -1,4 +1,4 @@
-**Note:** The server-side files are included in a seperated repository: [login-server](www.github.com/Sesota/login-server)
+**Note:** The server-side files are included in a seperated repository: [login-server](http://www.github.com/Sesota/login-server)
 ## TimeSheet
 **Learning Phase:**
 * 12:00 - 14:45 ---- **2:45**
