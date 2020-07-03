@@ -6,9 +6,9 @@
 
 ## Todo-List
 
-1. Learn Angular
-2. Learn NodeJS, Express, MySQL and how to connect them
-3. Code
+- Learn Angular
+- Learn NodeJS, Express, MySQL and how to connect them
+- Code
   Features:
   1. Web API in order to populate the Database
   2. Login system and user session
