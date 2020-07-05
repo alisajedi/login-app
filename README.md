@@ -9,7 +9,9 @@
 Next Day
 
 **Lost tracking of the time because of not working at my default workspace**
-* Estimated time: **5:00** + **3:00**
+* Estimated time: **5:00** + **3:00** + **5:00**
+
+Total Spent Time: **20 hours**
 
 
 Learning and coding and debugging phases were mixed and simultaneous.
@@ -20,14 +22,14 @@ Learning and coding and debugging phases were mixed and simultaneous.
 - Learn NodeJS, Express, MySQL and how to connect them together
 - Code
   Features:
-  1. Web API
-  2. Login system
-  3. Register system
-  4. User info (not functional yet)
-  5. Poking system (future) -- required time: 2-3 hours
-  6. Friends List (not functional yet)
-  7. JWT authentication and user session
-  8. Styling, beautifying and adding the animations (no animations yet)
+  1. Web API **done**
+  2. Login system **done**
+  3. Register system **done**
+  4. User info **done**
+  5. Poking system (future) *-- required time: 3 hours*
+  6. Friends List (future) *-- required time: 2 hours* **note:** Database tables, relations and API are already written; only client UI is still undone
+  7. JWT authentication and user session **done**
+  8. Styling, beautifying and adding the animations **done** (no animations yet, *-- required time: 4 hours*)
 
 ## How to run the page
 
