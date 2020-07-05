@@ -26,7 +26,7 @@ Learning and coding and debugging phases were mixed and simultaneous.
   4. User info (not functional yet)
   5. Poking system (future) -- required time: 2-3 hours
   6. Friends List (not functional yet)
-  7. JWT authentication
+  7. JWT authentication and user session
   8. Styling, beautifying and adding the animations (no animations yet)
 
 ## How to run the page
