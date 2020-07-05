@@ -22,7 +22,7 @@ Learning and coding and debugging phases were mixed and simultaneous.
   2. Login system
   3. Register system
   4. User info
-  5. Poking system
+  5. Poking system (future)
   6. Friends List
   7. Sessions (future)
   8. Styling, beautifying and adding the animations
