@@ -12,6 +12,7 @@ import { HomeComponent } from './components/home/home.component';
 import { ProfileComponent } from './components/profile/profile.component';
 
 import { authInterceptorProviders } from './_helpers/auth.interceptor';
+import { FriendsComponent } from './components/friends/friends.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { authInterceptorProviders } from './_helpers/auth.interceptor';
     RegisterComponent,
     HomeComponent,
     ProfileComponent,
+    FriendsComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule, HttpClientModule],
   providers: [],
