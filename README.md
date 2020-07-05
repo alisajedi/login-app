@@ -31,5 +31,5 @@ Learning and coding and debugging phases were mixed and simultaneous.
 
 ## How to run the page
 
-Run `node server.js` from the login-server folder (login-server repo) and then run `ng serve --port 8081` frmo the login-app folder (this repo).
+Run `node server.js` from the login-server folder (login-server repo) and then run `ng serve --port 8081` from the login-app folder (this repo).
 Remember to have the required MySQL instance running.
