@@ -1,27 +1,29 @@
-# LoginApp
+**Note:** The server-side files are included in a seperated repository: [login-server](http://www.github.com/Sesota/login-server)
+## TimeSheet
+* 12:00 - 14:45 ---- **2:45**
+* 15:30 - 16:10 ---- **0:40**
+* 19:00 - 22:30 ---- **3:30**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+Next Day
 
-## Development server
+**Lost tracking of the time because of not working at my default workspace**
+* Estimated time: **5:00** + 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Learning and coding and debugging phases were mixed and simultaneous.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Todo-List
 
-## Build
+- Learn Angular
+- Learn NodeJS, Express, MySQL and how to connect them together
+- Code
+  Features:
+  1. Web API in order to populate the Database
+  2. Login system
+  3. Register system
+  4. User info
+  5. Poking system (future)
+  6. Friends List
+  7. Sessions (future)
+  8. Styling, beautifying and adding the animations
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
