@@ -23,11 +23,11 @@ Learning and coding and debugging phases were mixed and simultaneous.
   1. Web API
   2. Login system
   3. Register system
-  4. User info
-  5. Poking system (future)
-  6. Friends List
+  4. User info (not functional yet)
+  5. Poking system (future) -- required time: 2-3 hours
+  6. Friends List (not functional yet)
   7. JWT authentication
-  8. Styling, beautifying and adding the animations
+  8. Styling, beautifying and adding the animations (no animations yet)
 
 ## How to run the page
 
