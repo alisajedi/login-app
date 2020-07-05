@@ -9,9 +9,9 @@ import { TokenStorageService } from '../../_services/token-storage.service';
 })
 export class LoginComponent implements OnInit {
   form: any = {};
-  isLoggedIn = false;
-  isLoginFailed = false;
-  errorMessage = '';
+  isLoggedIn: boolean = false;
+  isLoginFailed: boolean = false;
+  errorMessage: string = '';
 
   constructor(
     private authService: AuthService,

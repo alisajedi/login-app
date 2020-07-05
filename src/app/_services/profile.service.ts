@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
-const AUTH_API = 'http://localhost:8050/api/account/';
+const AUTH_API = 'http://localhost:8050/api/accountinfo/';
 
 const httpOptions = {
   headers: new HttpHeaders({ 'Content-Type': 'application/json' }),
@@ -11,29 +11,23 @@ const httpOptions = {
 @Injectable({
   providedIn: 'root',
 })
-export class AuthService {
-  constructor(private http: HttpClient) { }
+export class ProfileService {
+  constructor(private http: HttpClient) {}
 
-  login(credentials): Observable<any> {
-    return this.http.post(
-      AUTH_API + 'signin',
+  update(parameters): Observable<any> {
+    return this.http.put(
+      AUTH_API + parameters.username,
       {
-        username: credentials.username,
-        password: credentials.password,
+        fname: parameters.fname,
+        lname: parameters.lname,
+        linkedin: parameters.linkedin,
+        twitter: parameters.twitter,
       },
       httpOptions
     );
   }
 
-  register(account): Observable<any> {
-    return this.http.post(
-      AUTH_API + 'signup',
-      {
-        username: account.username,
-        email: account.email,
-        password: account.password,
-      },
-      httpOptions
-    );
+  read(username): Observable<any> {
+    return this.http.get(AUTH_API + username, httpOptions);
   }
 }
